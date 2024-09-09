@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Bevvy",
+    "last_name": "Lansberry",
+    "email": "blansberry0@trellian.com",
+    "gender": "Female",
+    "salary":10000
+  },
+  {
+    "id": 2,
+    "first_name": "Gus",
+    "last_name": "Mirfin",
+    "email": "gmirfin1@nasa.gov",
+    "gender": "Female",
+    "salary":12000
+  },
+  {
+    "id": 3,
+    "first_name": "Drew",
+    "last_name": "Braunston",
+    "email": "dbraunston2@unesco.org",
+    "gender": "Male",
+    "salary":13000
+  },
+  {
+    "id": 4,
+    "first_name": "Harmonie",
+    "last_name": "Paynton",
+    "email": "hpaynton3@nasa.gov",
+    "gender": "Female",
+    "salary":14000
+  },
+  {
+    "id": 5,
+    "first_name": "Abbey",
+    "last_name": "Prahl",
+    "email": "aprahl4@sfgate.com",
+    "gender": "Male",
+    "salary":15000
+  },
+  {
+    "id": 6,
+    "first_name": "Humphrey",
+    "last_name": "Palatini",
+    "email": "hpalatini5@baidu.com",
+    "gender": "Male",
+    "salary":16000
+  },
+  {
+    "id": 7,
+    "first_name": "Heywood",
+    "last_name": "Lanaway",
+    "email": "hlanaway6@mit.edu",
+    "gender": "Genderfluid",
+    "salary":17000
+  },
+  {
+    "id": 8,
+    "first_name": "Sydney",
+    "last_name": "Yelden",
+    "email": "syelden7@google.co.uk",
+    "gender": "Male",
+    "salary":18000
+  },
+  {
+    "id": 9,
+    "first_name": "Netti",
+    "last_name": "Reay",
+    "email": "nreay8@scientificamerican.com",
+    "gender": "Female",
+    "salary":19000
+  },
+  {
+    "id": 10,
+    "first_name": "Derron",
+    "last_name": "Sparway",
+    "email": "dsparway9@cbsnews.com",
+    "gender": "Male",
+    "salary":20000
+  }
+]
